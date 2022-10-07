@@ -4,8 +4,12 @@ body {
 
 #root {
   font-family: Inter, sans-serif;
-  max-width: 980px;
+  max-width: 600px;
   margin: 0 auto;
+}
+
+.cards-list {
+  padding: 0 2em;
 }
 
 /*
